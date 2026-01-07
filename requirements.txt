@@ -1,0 +1,24 @@
+
+
+# Data handling
+pandas
+numpy
+openpyxl
+
+# Machine Learning
+scikit-learn
+joblib
+
+# NLP
+scipy
+
+# Anomaly Detection (part of sklearn, no extra lib)
+
+# Visualization / Dashboard
+streamlit
+matplotlib
+seaborn
+
+# Optional (if you add FastAPI later)
+# fastapi
+# uvicorn
