@@ -1,27 +1,8 @@
-
-
-# Data handling
+fastapi
+uvicorn
 pandas
 numpy
 openpyxl
-
-# Machine Learning
-scikit-learn
 joblib
-lz4
-# NLP
-scipy
-
-# Anomaly Detection (part of sklearn, no extra lib)
-
-# Visualization / Dashboard
-
-matplotlib
-seaborn
-
-# Optional (if you add FastAPI later)
-# fastapi
-# Web API
-fastapi
-uvicorn[standard]
-# uvicorn
+scikit-learn==1.7.2
+python-multipart
