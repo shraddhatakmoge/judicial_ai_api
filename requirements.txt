@@ -15,7 +15,7 @@ scipy
 # Anomaly Detection (part of sklearn, no extra lib)
 
 # Visualization / Dashboard
-streamlit
+
 matplotlib
 seaborn
 
