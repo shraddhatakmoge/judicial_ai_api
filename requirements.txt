@@ -8,7 +8,7 @@ openpyxl
 # Machine Learning
 scikit-learn
 joblib
-
+lz4
 # NLP
 scipy
 
