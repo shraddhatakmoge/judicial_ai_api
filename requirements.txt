@@ -21,4 +21,7 @@ seaborn
 
 # Optional (if you add FastAPI later)
 # fastapi
+# Web API
+fastapi
+uvicorn[standard]
 # uvicorn
